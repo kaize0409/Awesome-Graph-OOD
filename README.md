@@ -31,6 +31,7 @@ Check out our survey: [Beyond Generalization: A Survey of Out-Of-Distribution Ad
 | **GRADE** |Invariant Representation Learning    |  [ [AAAI 2023] Non-iid transfer learning on graphs](https://arxiv.org/pdf/2212.08174.pdf)| [Code](https://github.com/jwu4sml/GRADE) | 
 | **JHGDA** |Invariant Representation Learning    |  [ [CIKM 2023] Improving graph domain adaptation with network hierarchy](https://dl.acm.org/doi/pdf/10.1145/3583780.3614928) | [Code](https://github.com/Skyorca/JHGDA) |
 | **SGDA** | Invariant Representation Learning    | [ [ICJAI 2023] Semi-supervised Domain Adaptation in Graph Transfer Learning](https://www.ijcai.org/proceedings/2023/0253.pdf) | [Code](https://github.com/joe817/SGDA) |
+| **MTDF** | Invariant Representation Learning | [[ICDE 2024] Multi-View Teacher with Curriculum Data Fusion for Robust Unsupervised Domain Adaptation](https://ieeexplore.ieee.org/abstract/document/10597690/) | [N/A] |
 | **SRNC** | Concept-shift Aware Representation Learning    | [ [NeurIPS 2022] Shift-Robust Node Classification via Graph Clustering Co-training](https://www.cs.emory.edu/~jyang71/files/srnc.pdf) | [N/A] |
 | **StruRW** | Concept-shift Aware Representation Learning    | [[ICML 2023] Structural re-weighting improves graph domain adaptation](https://arxiv.org/pdf/2306.03221.pdf) | [Code](https://github.com/Graph-COM/StruRW)
 | **GCONDA++** | Concept-shift Aware Representation Learning    |[[arXiv] Explaining and Adapting Graph Conditional Shift](https://arxiv.org/pdf/2306.03256.pdf) | [N/A] |
@@ -60,14 +61,16 @@ Check out our survey: [Beyond Generalization: A Survey of Out-Of-Distribution Ad
 | **SOGA** | Fine-tuning |  [[WSDM 2024] Source free unsupervised graph domain adaptation](https://arxiv.org/pdf/2112.00955.pdf)      |  [Code](https://github.com/HaitaoMao/SOGA) |
 | **GAPGC** | Fine-tuning |  [[ICML 2022] GraphTTA: Test Time Adaptation on Graph Neural Networks](https://arxiv.org/pdf/2208.09126.pdf)    | [N/A] |
 | **GT3** | Parameter Sharing |  [[arXiv] Test-time training for graph neural networks](https://arxiv.org/pdf/2210.08813.pdf)       |   [N/A] |
-| **GraphGLOW** | Parameter Sharing |  [[KDD 2023] GraphGLOW: Universal and Generalizable Structure Learning for Graph Neural Networks](https://arxiv.org/pdf/2306.11264.pdf)  | [Code](https://github.com/WtaoZhao/GraphGLOW)
+| **GraphGLOW** | Parameter Sharing |  [[KDD 2023] GraphGLOW: Universal and Generalizable Structure Learning for Graph Neural Networks](https://arxiv.org/pdf/2306.11264.pdf)  | [Code](https://github.com/WtaoZhao/GraphGLOW) |
+| **RNA** | Model Regularization |  [[IJCAI 2024] Rank and Align: Towards Effective Source-free Graph Domain Adaptation](https://www.ijcai.org/proceedings/2024/520)  | [N/A] |
 
 ### Data-centric Approaches
 
 |Name|Category|Paper|Code|
 | :------------ |:---------------:| :---------------| :---------------| 
 | **FRGNN** | Feature Reconstruction | [[arXiv] FRGNN: Mitigating the Impact of Distribution Shift on Graph Neural Networks via Test-Time Feature Reconstruction](https://arxiv.org/pdf/2308.09259.pdf)   | [N/A] |
-| **GTRANS** | Graph Transformation  | [[ICLR 2023] Empowering graph representation learning with test-time graph transformation](https://openreview.net/pdf?id=Lnxl5pr018)    | [Code](https://github.com/ChandlerBang/GTrans)
+| **GTRANS** | Graph Transformation  | [[ICLR 2023] Empowering graph representation learning with test-time graph transformation](https://openreview.net/pdf?id=Lnxl5pr018)    | [Code](https://github.com/ChandlerBang/GTrans) |
+| **GALA** | Graph Transformation  | [[TPAMI 2024] GALA: Graph Diffusion-based Alignment with Jigsaw for Source-free Domain Adaptation](https://www.computer.org/csdl/journal/tp/5555/01/10561561/1XSjvvkWZhu)    | [Code](https://github.com/luo-junyu/GALA) |
 
 ## Related: Transferability evaluation 
 
