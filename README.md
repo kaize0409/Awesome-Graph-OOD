@@ -4,6 +4,8 @@ This repository contains a list of papers on graph out-of-distribution adaptatio
 
 Check out our survey: [Beyond Generalization: A Survey of Out-Of-Distribution Adaptation on Graphs](https://arxiv.org/pdf/2402.11153.pdf)
 
+We are also preparing an updated survey on Deep Graph Learning under Distribution Shifts, which will be available soon！
+
 ## Contents 
 - [Training-time Graph OOD Adaptation](#Training-time-Graph-OOD-Adaptation)
     - [Model-centric Approaches](#Model-centric-Approaches)
@@ -31,12 +33,19 @@ Check out our survey: [Beyond Generalization: A Survey of Out-Of-Distribution Ad
 | **GRADE** |Invariant Representation Learning    |  [ [AAAI 2023] Non-iid transfer learning on graphs](https://arxiv.org/pdf/2212.08174.pdf)| [Code](https://github.com/jwu4sml/GRADE) | 
 | **JHGDA** |Invariant Representation Learning    |  [ [CIKM 2023] Improving graph domain adaptation with network hierarchy](https://dl.acm.org/doi/pdf/10.1145/3583780.3614928) | [Code](https://github.com/Skyorca/JHGDA) |
 | **SGDA** | Invariant Representation Learning    | [ [ICJAI 2023] Semi-supervised Domain Adaptation in Graph Transfer Learning](https://www.ijcai.org/proceedings/2023/0253.pdf) | [Code](https://github.com/joe817/SGDA) |
+| **SDA** | Invariant Representation Learning    | [ [AAAI 2024] Open-set graph domain  adaptation via separate domain alignment](https://ojs.aaai.org/index.php/AAAI/article/download/28765/29469) | [N/A] |
+| **JDA-GCN** | Invariant Representation Learning    | [ [ICJAI 2024] Joint domain adaptive graph convolutional network](https://www.ijcai.org/proceedings/2024/0276.pdf) | [N/A] |
+| **HC-GST** | Invariant Representation Learning    | [ [CIKM 2024] HC-GST: Heterophily-aware Distribution Consistency based Graph Self-training](https://dl.acm.org/doi/pdf/10.1145/3627673.3679622) | [N/A] |
+| **DREAM** | Invariant Representation Learning    | [ [ICLR 2024] DREAM: Dual structured exploration with mixup for open-set graph domain adaption](https://openreview.net/pdf?id=4olqbTBt1Y) | [N/A] |
+| **SelMAG** | Invariant Representation Learning    | [ [KDD 2024] Multi-source Unsupervised Domain Adaptation on Graphs with Transferability Modeling](https://arxiv.org/pdf/2406.10425) | [N/A] |
 | **SRNC** | Concept-shift Aware Representation Learning    | [ [NeurIPS 2022] Shift-Robust Node Classification via Graph Clustering Co-training](https://www.cs.emory.edu/~jyang71/files/srnc.pdf) | [N/A] |
-| **StruRW** | Concept-shift Aware Representation Learning    | [[ICML 2023] Structural re-weighting improves graph domain adaptation](https://arxiv.org/pdf/2306.03221.pdf) | [Code](https://github.com/Graph-COM/StruRW)
+| **StruRW** | Concept-shift Aware Representation Learning    | [[ICML 2023] Structural re-weighting improves graph domain adaptation](https://arxiv.org/pdf/2306.03221.pdf) | [Code](https://github.com/Graph-COM/StruRW) |
+| **Pair-Align** | Concept-shift Aware Representation Learning    | [[ICML 2024] Pairwise Alignment Improves Graph Domain Adaptation](https://arxiv.org/pdf/2403.01092) | [Code](https://github. com/Graph-COM/Pair-Align) |
 | **GCONDA++** | Concept-shift Aware Representation Learning    |[[arXiv] Explaining and Adapting Graph Conditional Shift](https://arxiv.org/pdf/2306.03256.pdf) | [N/A] |
 | **KDGA** | Model Regularization   |[[NeurIPS 2022] Knowledge distillation improves graph structure augmentation for graph neural networks](https://openreview.net/pdf?id=7yHte3tH8Xh) | [Code](https://github.com/LirongWu/KDGA)
 | **SS/MFR-Reg** |Model Regularization    | [[ICLR 2023] Graph domain adaptation via theory-grounded spectral regularization](https://openreview.net/pdf?id=OysfLgrk8mk) | [Code](https://github.com/Shen-Lab/GDA-SpecReg) |
 | **KTGNN** | Model Regularization    | [[TheWebConf 2023] Predicting the Silent Majority on Graphs: Knowledge Transferable Graph Neural Network](https://arxiv.org/pdf/2302.00873.pdf) | [Code](https://github.com/wendongbi/KT-GNN)
+| **A2GNN** |Model Regularization    | [[AAAI 2024] Rethinking propagation for unsupervised graph domain adaptation](https://ojs.aaai.org/index.php/AAAI/article/download/29304/30460) | [Code](https://github.com/Meihan-Liu/24AAAI-A2GNN) |
 
 ### Data-centric Approaches
 
