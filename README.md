@@ -7,12 +7,15 @@ Check out our existing survey: [Beyond Generalization: A Survey of Out-Of-Distri
 We are also preparing an updated survey on Deep Graph Learning under Distribution Shifts, which will be available soon！
 
 ## Contents 
-- [Training-time Graph OOD Adaptation](#Training-time-Graph-OOD-Adaptation)
+- [Graph OOD Generalization](#Graph OOD Generalization)
     - [Model-centric Approaches](#Model-centric-Approaches)
     - [Data-centric Approaches](#Data-centric-Approaches)
-- [Test-time Graph OOD Adaptation](#Test-time-Graph-OOD-Adaptation)
+- [Training-time Graph OOD Adaptation](#Training-time-Graph-OOD-Adaptation)
     - [Model-centric Approaches](#Model-centric-Approaches-1)
     - [Data-centric Approaches](#Data-centric-Approaches-1)
+- [Test-time Graph OOD Adaptation](#Test-time-Graph-OOD-Adaptation)
+    - [Model-centric Approaches](#Model-centric-Approaches-2)
+    - [Data-centric Approaches](#Data-centric-Approaches-2)
 - [Transferability evaluation](#Related-Transferability-evaluation)
 
 ## Graph OOD Generalization
