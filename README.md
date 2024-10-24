@@ -1,8 +1,8 @@
-# Awesome-Graph-OOD-Adaptation
+# Awesome-Graph-OOD-Learning
 
-This repository contains a list of papers on graph out-of-distribution adaptation.
+This repository contains a list of papers on graph out-of-distribution learning.
 
-Check out our survey: [Beyond Generalization: A Survey of Out-Of-Distribution Adaptation on Graphs](https://arxiv.org/pdf/2402.11153.pdf)
+Check out our existing survey: [Beyond Generalization: A Survey of Out-Of-Distribution Adaptation on Graphs](https://arxiv.org/pdf/2402.11153.pdf), which contains a list of papers on graph out-of-distribution adaptation.
 
 We are also preparing an updated survey on Deep Graph Learning under Distribution Shifts, which will be available soon！
 
@@ -55,9 +55,10 @@ We are also preparing an updated survey on Deep Graph Learning under Distributio
 | **NES-TL** | Instance Weighting    |[[TNSE 2020] Nes-tl: Network embedding similarity-based transfer learning](http://www.xuanqi-net.com/Papers/TNSE19-NES.pdf)| [N/A] |
 | **RSS-GNN** |Instance Weighting    | [[BIBM 2022] Reinforced Sample Selection for Graph Neural Networks Transfer Learning](https://ieeexplore.ieee.org/document/9995652) | [N/A] |
 | **DR-GST** | Instance Weighting    |[[TheWebConf 2022] Confidence may cheat: Self-training on graph neural networks under distribution shift](https://arxiv.org/pdf/2201.11349.pdf) | [Code](https://github.com/bupt-gamma/dr-gst) |
-| **FakeEdge** | Graph Transformation  | [[LoG 2022] Fakeedge: Alleviate dataset shift in link prediction](https://arxiv.org/pdf/2211.15899.pdf) | [Code](https://github.com/Barcavin/FakeEdge)
-| **Bridged-GNN** | Graph Transformation  | [[CIKM 2023] Bridged-GNN: Knowledge Bridge Learning for Effective Knowledge Transfer](https://arxiv.org/pdf/2308.09499v1.pdf) | [Code](https://github.com/wendongbi/Bridged-GNN)
-| **DC-GST** | Graph Transformation  | [[WSDM 2024] Distribution consistency based self-training for graph neural networks with sparse labels](https://arxiv.org/pdf/2401.10394.pdf) | [N/A] |
+| **FakeEdge** | Graph Data Augmentation  | [[LoG 2022] Fakeedge: Alleviate dataset shift in link prediction](https://arxiv.org/pdf/2211.15899.pdf) | [Code](https://github.com/Barcavin/FakeEdge)
+| **Bridged-GNN** | Graph Data Augmentation  | [[CIKM 2023] Bridged-GNN: Knowledge Bridge Learning for Effective Knowledge Transfer](https://arxiv.org/pdf/2308.09499v1.pdf) | [Code](https://github.com/wendongbi/Bridged-GNN)
+| **DC-GST** | Graph Data Augmentation  | [[WSDM 2024] Distribution consistency based self-training for graph neural networks with sparse labels](https://arxiv.org/pdf/2401.10394.pdf) | [N/A] |
+| **LTLP** | Graph Data Augmentation  | [[KDD 2024] Optimizing Long-tailed Link Prediction in Graph Neural Networks through Structure Representation Enhancement](https://arxiv.org/pdf/2407.20499) | [N/A] |
 
 ## Test-time Graph OOD Adaptation
 
@@ -65,18 +66,24 @@ We are also preparing an updated survey on Deep Graph Learning under Distributio
 
 |Name|Category|Paper|Code|
 | :------------ |:---------------:| :---------------| :---------------| 
-| **GraphControl**  | Fine-tuning | [[arXiv] GraphControl: Adding Conditional Control to Universal Graph Pre-trained Models for Graph Domain Transfer Learning](https://arxiv.org/pdf/2310.07365.pdf)    | [N/A] |
-| **SOGA** | Fine-tuning |  [[WSDM 2024] Source free unsupervised graph domain adaptation](https://arxiv.org/pdf/2112.00955.pdf)      |  [Code](https://github.com/HaitaoMao/SOGA) |
-| **GAPGC** | Fine-tuning |  [[ICML 2022] GraphTTA: Test Time Adaptation on Graph Neural Networks](https://arxiv.org/pdf/2208.09126.pdf)    | [N/A] |
-| **GT3** | Parameter Sharing |  [[arXiv] Test-time training for graph neural networks](https://arxiv.org/pdf/2210.08813.pdf)       |   [N/A] |
-| **GraphGLOW** | Parameter Sharing |  [[KDD 2023] GraphGLOW: Universal and Generalizable Structure Learning for Graph Neural Networks](https://arxiv.org/pdf/2306.11264.pdf)  | [Code](https://github.com/WtaoZhao/GraphGLOW)
+| **GraphControl**  | Semi-supervised Fine-tuning | [[arXiv] GraphControl: Adding Conditional Control to Universal Graph Pre-trained Models for Graph Domain Transfer Learning](https://arxiv.org/pdf/2310.07365.pdf)    | [N/A] |
+| **G-Adapter** | Semi-supervised Fine-tuning |  [[AAAI 2024] G-Adapter: Towards Structure-Aware Parameter-Effcient Transfer Learning for Graph Transformer Networks](https://ojs.aaai.org/index.php/AAAI/article/download/29112/30103) |   [N/A] |
+| **AdapterGNN** | Semi-supervised Fine-tuning |  [[AAAI 2024] Adaptergnn: Parameter-efficient fine-tuning improves generalization in gnns](https://ojs.aaai.org/index.php/AAAI/article/download/29264/30385)      |  [Code](https://github.com/Lucius-lsr/AdapterGNN) |
+| **PROGRAM** | Semi-supervised Fine-tuning |  [[ICLR 2024] PROGRAM: PROtotype GRAph Model based Pseudo-Label Learning for Test-Time Adaptation](https://openreview.net/pdf?id=x5LvBK43wg) |   [N/A] |
+| **SOGA** | Self-supervised Adaptation |  [[WSDM 2024] Source free unsupervised graph domain adaptation](https://arxiv.org/pdf/2112.00955.pdf)      |  [Code](https://github.com/HaitaoMao/SOGA) |
+| **GAPGC** | Self-supervised Adaptation |  [[ICML 2022] GraphTTA: Test Time Adaptation on Graph Neural Networks](https://arxiv.org/pdf/2208.09126.pdf)    | [N/A] |
+| **GT3** | Self-supervised Adaptation |  [[arXiv] Test-time training for graph neural networks](https://arxiv.org/pdf/2210.08813.pdf)       |   [N/A] |
+| **GraphGLOW** | Self-supervised Adaptation |  [[KDD 2023] GraphGLOW: Universal and Generalizable Structure Learning for Graph Neural Networks](https://arxiv.org/pdf/2306.11264.pdf)  | [Code](https://github.com/WtaoZhao/GraphGLOW)
 
 ### Data-centric Approaches
 
 |Name|Category|Paper|Code|
 | :------------ |:---------------:| :---------------| :---------------| 
 | **FRGNN** | Feature Reconstruction | [[arXiv] FRGNN: Mitigating the Impact of Distribution Shift on Graph Neural Networks via Test-Time Feature Reconstruction](https://arxiv.org/pdf/2308.09259.pdf)   | [N/A] |
-| **GTRANS** | Graph Transformation  | [[ICLR 2023] Empowering graph representation learning with test-time graph transformation](https://openreview.net/pdf?id=Lnxl5pr018)    | [Code](https://github.com/ChandlerBang/GTrans)
+| **GTRANS** | Graph Data Augmentation  | [[ICLR 2023] Empowering graph representation learning with test-time graph transformation](https://openreview.net/pdf?id=Lnxl5pr018)    | [Code](https://github.com/ChandlerBang/GTrans)
+| **GraphCTA** | Graph Data Augmentation | [[TheWebConf 2024] Collaborate to Adapt: Source-Free Graph Domain Adaptation via Bi-directional Adaptation](https://dl.acm.org/doi/pdf/10.1145/3589334.3645507) |  [Code](https://github.com/cszhangzhen/GraphCTA) |
+| **SGOOD** | Graph Data Augmentation | [[arXiv] SGOOD: Substructure-enhanced Graph-Level Out-of-Distribution Detection](https://arxiv.org/pdf/2310.10237) | [N/A] |
+
 
 ## Related: Transferability evaluation 
 
