@@ -1,6 +1,6 @@
 # Awesome-Graph-OOD-Learning
 
-This repository contains a list of papers on graph out-of-distribution learning.
+This repository contains a list of papers on graph out-of-distribution learning, covering three primary scenarios: graph OOD generalization, training-time graph OOD adaptation, and test-time graph OOD adaptation.
 
 Check out our existing survey: [Beyond Generalization: A Survey of Out-Of-Distribution Adaptation on Graphs](https://arxiv.org/pdf/2402.11153.pdf), which contains a list of papers on graph out-of-distribution adaptation.
 
@@ -104,6 +104,7 @@ We are also preparing an updated survey on Deep Graph Learning under Distributio
 | **GRADE** |Invariant Representation Learning    |  [ [AAAI 2023] Non-iid transfer learning on graphs](https://arxiv.org/pdf/2212.08174.pdf)| [Code](https://github.com/jwu4sml/GRADE) | 
 | **JHGDA** |Invariant Representation Learning    |  [ [CIKM 2023] Improving graph domain adaptation with network hierarchy](https://dl.acm.org/doi/pdf/10.1145/3583780.3614928) | [Code](https://github.com/Skyorca/JHGDA) |
 | **SGDA** | Invariant Representation Learning    | [ [ICJAI 2023] Semi-supervised Domain Adaptation in Graph Transfer Learning](https://www.ijcai.org/proceedings/2023/0253.pdf) | [Code](https://github.com/joe817/SGDA) |
+| **MTDF** | Invariant Representation Learning | [[ICDE 2024] Multi-View Teacher with Curriculum Data Fusion for Robust Unsupervised Domain Adaptation](https://ieeexplore.ieee.org/abstract/document/10597690/) | [N/A] |
 | **SDA** | Invariant Representation Learning    | [ [AAAI 2024] Open-set graph domain  adaptation via separate domain alignment](https://ojs.aaai.org/index.php/AAAI/article/download/28765/29469) | [N/A] |
 | **JDA-GCN** | Invariant Representation Learning    | [ [ICJAI 2024] Joint domain adaptive graph convolutional network](https://www.ijcai.org/proceedings/2024/0276.pdf) | [N/A] |
 | **HC-GST** | Invariant Representation Learning    | [ [CIKM 2024] HC-GST: Heterophily-aware Distribution Consistency based Graph Self-training](https://dl.acm.org/doi/pdf/10.1145/3627673.3679622) | [N/A] |
@@ -145,6 +146,7 @@ We are also preparing an updated survey on Deep Graph Learning under Distributio
 | **GAPGC** | Self-supervised Adaptation |  [[ICML 2022] GraphTTA: Test Time Adaptation on Graph Neural Networks](https://arxiv.org/pdf/2208.09126.pdf)    | [N/A] |
 | **GT3** | Self-supervised Adaptation |  [[arXiv] Test-time training for graph neural networks](https://arxiv.org/pdf/2210.08813.pdf)       |   [N/A] |
 | **GraphGLOW** | Self-supervised Adaptation |  [[KDD 2023] GraphGLOW: Universal and Generalizable Structure Learning for Graph Neural Networks](https://arxiv.org/pdf/2306.11264.pdf)  | [Code](https://github.com/WtaoZhao/GraphGLOW)
+| **RNA** | Semi-supervised Fine-tuning |  [[IJCAI 2024] Rank and Align: Towards Effective Source-free Graph Domain Adaptation](https://www.ijcai.org/proceedings/2024/520) |   [N/A] |
 
 ### Data-centric Approaches
 
