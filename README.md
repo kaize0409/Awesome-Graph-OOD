@@ -7,7 +7,7 @@ Check out our existing survey: [Beyond Generalization: A Survey of Out-Of-Distri
 We are also preparing an updated survey on Deep Graph Learning under Distribution Shifts, which will be available soon！
 
 ## Contents 
-- [Graph OOD Generalization](#Graph OOD Generalization)
+- [Graph OOD Generalization](#Graph-OOD-Generalization)
     - [Model-centric Approaches](#Model-centric-Approaches)
     - [Data-centric Approaches](#Data-centric-Approaches)
 - [Training-time Graph OOD Adaptation](#Training-time-Graph-OOD-Adaptation)
