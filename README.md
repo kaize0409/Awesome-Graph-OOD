@@ -40,7 +40,7 @@ We are also preparing an updated survey on Deep Graph Learning under Distributio
 | **SelMAG** | Invariant Representation Learning    | [ [KDD 2024] Multi-source Unsupervised Domain Adaptation on Graphs with Transferability Modeling](https://arxiv.org/pdf/2406.10425) | [N/A] |
 | **SRNC** | Concept-shift Aware Representation Learning    | [ [NeurIPS 2022] Shift-Robust Node Classification via Graph Clustering Co-training](https://www.cs.emory.edu/~jyang71/files/srnc.pdf) | [N/A] |
 | **StruRW** | Concept-shift Aware Representation Learning    | [[ICML 2023] Structural re-weighting improves graph domain adaptation](https://arxiv.org/pdf/2306.03221.pdf) | [Code](https://github.com/Graph-COM/StruRW) |
-| **Pair-Align** | Concept-shift Aware Representation Learning    | [[ICML 2024] Pairwise Alignment Improves Graph Domain Adaptation](https://arxiv.org/pdf/2403.01092) | [Code](https://github. com/Graph-COM/Pair-Align) |
+| **Pair-Align** | Concept-shift Aware Representation Learning    | [[ICML 2024] Pairwise Alignment Improves Graph Domain Adaptation](https://arxiv.org/pdf/2403.01092) | [Code](https://github.com/Graph-COM/Pair-Align) |
 | **GCONDA++** | Concept-shift Aware Representation Learning    |[[arXiv] Explaining and Adapting Graph Conditional Shift](https://arxiv.org/pdf/2306.03256.pdf) | [N/A] |
 | **KDGA** | Model Regularization   |[[NeurIPS 2022] Knowledge distillation improves graph structure augmentation for graph neural networks](https://openreview.net/pdf?id=7yHte3tH8Xh) | [Code](https://github.com/LirongWu/KDGA)
 | **SS/MFR-Reg** |Model Regularization    | [[ICLR 2023] Graph domain adaptation via theory-grounded spectral regularization](https://openreview.net/pdf?id=OysfLgrk8mk) | [Code](https://github.com/Shen-Lab/GDA-SpecReg) |
