@@ -39,7 +39,7 @@ We are also preparing an updated survey on Deep Graph Learning under Distributio
 | **NED-VAE** | Invariant Representation Learning    | [[KDD 2020] Interpretable deep graph generation with node-edge co-disentanglement](https://dl.acm.org/doi/pdf/10.1145/3394486.3403221) | [Code](https://github.com/xguo7/NED-VAE) |
 | **DGCL** | Invariant Representation Learning    | [[NeurIPS 2021] Disentangled contrastive learning on graphs](https://proceedings.neurips.cc/paper_files/paper/2021/file/b6cda17abb967ed28ec9610137aa45f7-Paper.pdf) | [N/A] |
 | **IDGCL** | Invariant Representation Learning    | [[TKDE 2022] Disentangled graph contrastive learning with independence promotion](https://ieeexplore.ieee.org/abstract/document/9893319) | [N/A] |
-| **I-DIDA** | Invariant Representation Learning    | [[arXiv] Out-of-distribution generalized dynamic graph neural network with disentangled intervention and invariance promotion](https://arxiv.org/pdf/2311.14255)  [N/A] |
+| **I-DIDA** | Invariant Representation Learning    | [[arXiv] Out-of-distribution generalized dynamic graph neural network with disentangled intervention and invariance promotion](https://arxiv.org/pdf/2311.14255) | [N/A] |
 | **L2R-GNN** | Invariant Representation Learning    | [[AAAI 2024] Learning to reweight for generalizable graph neural network](https://ojs.aaai.org/index.php/AAAI/article/view/28673/29307) | [N/A] |
 | **OOD-GNN** | Invariant Representation Learning    | [[TKDE 2022] OOD-GNN: Out-of-Distribution Generalized Graph Neural Network](https://arxiv.org/pdf/2112.03806) | [N/A] |
 | **EQuAD** | Invariant Representation Learning    | [[ICML 2024] Empowering Graph Invariance Learning with Deep Spurious Infomax](https://arxiv.org/pdf/2407.11083) | [Code](https://github.com/tianyao-aka/EQuAD) |
@@ -66,7 +66,7 @@ We are also preparing an updated survey on Deep Graph Learning under Distributio
 |Name|Category|Paper|Code|
 | :------------ |:---------------:| :---------------| :---------------| 
 | **AIA** | Graph Data Augmentation    | [[NeurIPS 2023] Unleashing the power of graph data augmentation on covariate distribution shift](https://proceedings.neurips.cc/paper_files/paper/2023/file/3a33ddacb2798fc7d83b8334d552e05a-Paper-Conference.pdf) | [Code](https://github.com/yongduosui/AIA) |
-| **G-Splice** | Graph Data Augmentation    | [[arXiv] Graph structure and feature extrapolation for out-of-distribution generalization]([https://dl.acm.org/doi/abs/10.1145/2488388.2488517](https://arxiv.org/pdf/2306.08076)) | [N/A] |
+| **G-Splice** | Graph Data Augmentation    | [[arXiv] Graph structure and feature extrapolation for out-of-distribution generalization](https://arxiv.org/pdf/2306.08076) | [N/A] |
 | **LiSA** | Graph Data Augmentation    | [[CVPR 2023] Mind the Label Shift of Augmentation-based Graph OOD Generalization](https://openaccess.thecvf.com/content/CVPR2023/papers/Yu_Mind_the_Label_Shift_of_Augmentation-Based_Graph_OOD_Generalization_CVPR_2023_paper.pdf) | [Code](https://github.com/Samyu0304/LiSA) |
 | **DLG** | Graph Data Augmentation    | [[ICDM 2024] Enhancing Distribution and Label Consistency for Graph Out-of-Distribution Generalization] | [N/A] |
 | **Pattern-PT** | Graph Data Augmentation    | [[ICML 2021] From local structures to size generalization in graph neural networks](https://proceedings.mlr.press/v139/yehudai21a/yehudai21a.pdf) | [N/A] |
