@@ -156,6 +156,7 @@ We are also preparing an updated survey on Deep Graph Learning under Distributio
 | **GTRANS** | Graph Data Augmentation  | [[ICLR 2023] Empowering graph representation learning with test-time graph transformation](https://openreview.net/pdf?id=Lnxl5pr018)    | [Code](https://github.com/ChandlerBang/GTrans)
 | **GraphCTA** | Graph Data Augmentation | [[TheWebConf 2024] Collaborate to Adapt: Source-Free Graph Domain Adaptation via Bi-directional Adaptation](https://dl.acm.org/doi/pdf/10.1145/3589334.3645507) |  [Code](https://github.com/cszhangzhen/GraphCTA) |
 | **SGOOD** | Graph Data Augmentation | [[arXiv] SGOOD: Substructure-enhanced Graph-Level Out-of-Distribution Detection](https://arxiv.org/pdf/2310.10237) | [N/A] |
+| **GALA** | Graph Data Augmentation  | [[TPAMI 2024] GALA: Graph Diffusion-based Alignment with Jigsaw for Source-free Domain Adaptation](https://www.computer.org/csdl/journal/tp/5555/01/10561561/1XSjvvkWZhu)    | [Code](https://github.com/luo-junyu/GALA) |
 
 
 ## Related: Transferability evaluation 
