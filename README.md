@@ -146,7 +146,7 @@ We are also preparing an updated survey on Deep Graph Learning under Distributio
 | **GAPGC** | Self-supervised Adaptation |  [[ICML 2022] GraphTTA: Test Time Adaptation on Graph Neural Networks](https://arxiv.org/pdf/2208.09126.pdf)    | [N/A] |
 | **GT3** | Self-supervised Adaptation |  [[arXiv] Test-time training for graph neural networks](https://arxiv.org/pdf/2210.08813.pdf)       |   [N/A] |
 | **GraphGLOW** | Self-supervised Adaptation |  [[KDD 2023] GraphGLOW: Universal and Generalizable Structure Learning for Graph Neural Networks](https://arxiv.org/pdf/2306.11264.pdf)  | [Code](https://github.com/WtaoZhao/GraphGLOW)
-| **RNA** | Semi-supervised Fine-tuning |  [[IJCAI 2024] Rank and Align: Towards Effective Source-free Graph Domain Adaptation](https://www.ijcai.org/proceedings/2024/520) |   [N/A] |
+| **RNA** | Self-supervised Fine-tuning |  [[IJCAI 2024] Rank and Align: Towards Effective Source-free Graph Domain Adaptation](https://www.ijcai.org/proceedings/2024/520) |   [N/A] |
 
 ### Data-centric Approaches
 
