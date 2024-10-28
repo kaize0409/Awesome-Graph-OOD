@@ -1,10 +1,19 @@
 # Awesome-Graph-OOD-Learning
 
-This repository contains a list of papers on graph out-of-distribution learning, covering three primary scenarios: graph OOD generalization, training-time graph OOD adaptation, and test-time graph OOD adaptation.
+This repository for the paper: [A Survey of Deep Graph Learning under Distribution Shifts: from Graph Out-of-Distribution Generalization to Adaptation](https://arxiv.org/abs/2410.19265)
+The README file here maintains a list of papers on graph out-of-distribution learning, covering three primary scenarios: graph OOD generalization, training-time graph OOD adaptation, and test-time graph OOD adaptation.
 
 Check out our existing survey: [Beyond Generalization: A Survey of Out-Of-Distribution Adaptation on Graphs](https://arxiv.org/pdf/2402.11153.pdf), which contains a list of papers on graph out-of-distribution adaptation.
 
-We are also preparing an updated survey on Deep Graph Learning under Distribution Shifts, which will be available soon！
+## Citing This Work 
+If you find this repository helpful to your work, please kindly star it and cite our survey paper as follows:
+```bibtex
+@article{zhang2024surveygraph,
+      title={A Survey of Deep Graph Learning under Distribution Shifts: from Graph Out-of-Distribution Generalization to Adaptation}, 
+      author={Kexin Zhang and Shuhan Liu and Song Wang and Weili Shi and Chen Chen and Pan Li and Sheng Li and Jundong Li and Kaize Ding},
+      journal={arXiv preprint arXiv:2410.19265},
+      year={2024}
+}
 
 ## Contents 
 - [Graph OOD Generalization](#Graph-OOD-Generalization)
