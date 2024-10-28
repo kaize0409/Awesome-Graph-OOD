@@ -14,6 +14,7 @@ If you find this repository helpful to your work, please kindly star it and cite
       journal={arXiv preprint arXiv:2410.19265},
       year={2024}
 }
+```
 
 ## Contents 
 - [Graph OOD Generalization](#Graph-OOD-Generalization)
