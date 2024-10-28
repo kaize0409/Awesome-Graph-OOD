@@ -2,28 +2,12 @@
 
 This repository for the paper 📘: [A Survey of Deep Graph Learning under Distribution Shifts: from Graph Out-of-Distribution Generalization to Adaptation](https://arxiv.org/pdf/2410.19265).
 The README file here maintains a list of papers on graph out-of-distribution learning, covering three primary scenarios: 
-<div style="box-shadow: 2px 2px 5px rgba(0,0,0,0.5); padding: 10px; margin-bottom: 10px;">
-### 1. Graph OOD Generalization
-</div>
-<div style="box-shadow: 2px 2px 5px rgba(0,0,0,0.5); padding: 10px; margin-bottom: 10px;">
-### 2. Training-Time Graph OOD Adaptation
-</div>
-<div style="box-shadow: 2px 2px 5px rgba(0,0,0,0.5); padding: 10px; margin-bottom: 10px;">
-### 3. Test-Time Graph OOD Adaptation
-</div>
+<div style="box-shadow: 0 4px 8px rgba(0,0,0,0.2); padding: 10px; margin: 10px 0;"> ❖ **Graph OOD Generalization** </div> 
+<div style="box-shadow: 0 4px 8px rgba(0,0,0,0.2); padding: 10px; margin: 10px 0;"> ❖ **Training-Time Graph OOD Adaptation** </div> 
+<div style="box-shadow: 0 4px 8px rgba(0,0,0,0.2); padding: 10px; margin: 10px 0;"> ❖ **Test-Time Graph OOD Adaptation** </div>
 
 Check out our existing survey 📄: [Beyond Generalization: A Survey of Out-Of-Distribution Adaptation on Graphs](https://arxiv.org/pdf/2402.11153.pdf), which contains a list of papers on graph out-of-distribution adaptation.
 
-## 📚 Citing This Work 
-If you find this repository helpful to your work, please kindly star it and cite our survey paper as follows:
-```bibtex
-@article{zhang2024surveygraph,
-      title={A Survey of Deep Graph Learning under Distribution Shifts: from Graph Out-of-Distribution Generalization to Adaptation}, 
-      author={Kexin Zhang and Shuhan Liu and Song Wang and Weili Shi and Chen Chen and Pan Li and Sheng Li and Jundong Li and Kaize Ding},
-      journal={arXiv preprint arXiv:2410.19265},
-      year={2024}
-}
-```
 
 ## ❖ Contents 
 - [Graph OOD Generalization](#Graph-OOD-Generalization)
@@ -189,5 +173,15 @@ If you find this repository helpful to your work, please kindly star it and cite
 
 
 
+## 📚 Citing This Work 
+If you find this repository helpful to your work, please kindly star it and cite our survey paper as follows:
+```bibtex
+@article{zhang2024surveygraph,
+      title={A Survey of Deep Graph Learning under Distribution Shifts: from Graph Out-of-Distribution Generalization to Adaptation}, 
+      author={Kexin Zhang and Shuhan Liu and Song Wang and Weili Shi and Chen Chen and Pan Li and Sheng Li and Jundong Li and Kaize Ding},
+      journal={arXiv preprint arXiv:2410.19265},
+      year={2024}
+}
+```
 
 
