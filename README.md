@@ -1,11 +1,11 @@
-# Awesome-Graph-OOD-Learning
+# 🚀 Awesome-Graph-OOD-Learning
 
-This repository for the paper: [A Survey of Deep Graph Learning under Distribution Shifts: from Graph Out-of-Distribution Generalization to Adaptation](https://arxiv.org/abs/2410.19265)
+This repository for the paper 📘: [A Survey of Deep Graph Learning under Distribution Shifts: from Graph Out-of-Distribution Generalization to Adaptation](https://arxiv.org/abs/2410.19265).
 The README file here maintains a list of papers on graph out-of-distribution learning, covering three primary scenarios: graph OOD generalization, training-time graph OOD adaptation, and test-time graph OOD adaptation.
 
-Check out our existing survey: [Beyond Generalization: A Survey of Out-Of-Distribution Adaptation on Graphs](https://arxiv.org/pdf/2402.11153.pdf), which contains a list of papers on graph out-of-distribution adaptation.
+Check out our existing survey 📄: [Beyond Generalization: A Survey of Out-Of-Distribution Adaptation on Graphs](https://arxiv.org/pdf/2402.11153.pdf), which contains a list of papers on graph out-of-distribution adaptation.
 
-## Citing This Work 
+## 📚 Citing This Work 
 If you find this repository helpful to your work, please kindly star it and cite our survey paper as follows:
 ```bibtex
 @article{zhang2024surveygraph,
@@ -16,7 +16,7 @@ If you find this repository helpful to your work, please kindly star it and cite
 }
 ```
 
-## Contents 
+## ❖ Contents 
 - [Graph OOD Generalization](#Graph-OOD-Generalization)
     - [Model-centric Approaches](#Model-centric-Approaches)
     - [Data-centric Approaches](#Data-centric-Approaches)
@@ -28,7 +28,7 @@ If you find this repository helpful to your work, please kindly star it and cite
     - [Data-centric Approaches](#Data-centric-Approaches-2)
 - [Transferability evaluation](#Related-Transferability-evaluation)
 
-## Graph OOD Generalization
+## ❖ Graph OOD Generalization
 
 ### Model-centric Approaches
 |Name|Category|Paper|Code|
@@ -96,7 +96,7 @@ If you find this repository helpful to your work, please kindly star it and cite
 
 
 
-## Training-time Graph OOD Adaptation
+## ❖ Training-time Graph OOD Adaptation
 
 ### Model-centric Approaches
 |Name|Category|Paper|Code|
@@ -142,7 +142,7 @@ If you find this repository helpful to your work, please kindly star it and cite
 | **DC-GST** | Graph Data Augmentation  | [[WSDM 2024] Distribution consistency based self-training for graph neural networks with sparse labels](https://arxiv.org/pdf/2401.10394.pdf) | [N/A] |
 | **LTLP** | Graph Data Augmentation  | [[KDD 2024] Optimizing Long-tailed Link Prediction in Graph Neural Networks through Structure Representation Enhancement](https://arxiv.org/pdf/2407.20499) | [N/A] |
 
-## Test-time Graph OOD Adaptation
+## ❖ Test-time Graph OOD Adaptation
 
 ### Model-centric Approaches
 
@@ -169,7 +169,7 @@ If you find this repository helpful to your work, please kindly star it and cite
 | **GALA** | Graph Data Augmentation  | [[TPAMI 2024] GALA: Graph Diffusion-based Alignment with Jigsaw for Source-free Domain Adaptation](https://www.computer.org/csdl/journal/tp/5555/01/10561561/1XSjvvkWZhu)    | [Code](https://github.com/luo-junyu/GALA) |
 
 
-## Related: Transferability evaluation 
+## ❖ Related: Transferability evaluation 
 
 |Name|Paper|Code|
 | :------------ |:---------------| :---------------| 
